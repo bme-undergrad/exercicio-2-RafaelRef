@@ -1,6 +1,6 @@
 function [blendA, blendB] = exercicio2(NG) 
 
-% NG: 7 
+% NG: 8 
 
 % nao alterar: inicio
 es = 1;
